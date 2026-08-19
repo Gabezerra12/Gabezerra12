@@ -1,8 +1,6 @@
 # 👋 Olá! Hello! ¡Hola!
 
----
-
-# 🇧🇷 Português
+## 🇧🇷 Português
 
 🎓 Estudante de Sistemas de Informação
 
@@ -10,7 +8,7 @@
 
 🚀 Atualmente focado em desenvolvimento Backend, Web, APIs e Banco de Dados.
 
-## 🟢 Status
+### 🟢 Status
 
 - 🎓 Estudante de Sistemas de Informação
 - 💻 Desenvolvendo projetos pessoais e acadêmicos
@@ -18,24 +16,38 @@
 - 🚀 Explorando novas tecnologias
 - 🔎 Buscando evolução constante como desenvolvedor
 
-## 🛠️ Tecnologias
+### 🛠️ Tecnologias
 
-### Principais tecnologias
+**Principais**
 
-<p align="center">
-  licons.dev/icons?i=cs,dotnet,python,react,mysql" />
-</p>
+![C#](https://ields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white
+https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white
+https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white
+![SQL](https://img.sho/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white
+![React](https://ds.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black
 
-### Outras tecnologias e ferramentas
+**Outras tecnologias**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,flask,docker,git,github,postman,vscode🎓 Information Systems Student
+![JavaScript](https://img.shields.io/badgeDF1E?style=flat-square&logo=javascript&logoColor=black
+![HTML5](https://img.shbadge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white
+![CSS3](https://img.shields.io/badge/CSS3style=flat-square&logo=css3&logoColor=white
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logogoColor=white
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-o=docker&logoColor=white
+![Git](https://img.shields.io/badge/Git-F05032?style=uare&logo=git&logoColor=white
+![GitHub](https://img.shields.io/badge/GitHub-181717t-square&logo=github&logoColor=white
+![Postman](https://img.shields.io/badge/Postman-FFflat-square&logo=postman&logoColor=white
 
-💻 Passionate about technology, software development, and continuous learning.
+---
 
-🚀 Currently focused on Backend Development, Web Development, APIs, and Databases.
+## 🇺🇸 English
 
-## 🟢 Status
+🎓 Information Systems Student
+
+💻 Passionate about technology, software development and continuous learning.
+
+🚀 Currently focused on Backend Development, Web Development, APIs and Databases.
+
+### 🟢 Status
 
 - 🎓 Information Systems Student
 - 💻 Building personal and academic projects
@@ -43,23 +55,9 @@
 - 🚀 Exploring new technologies
 - 🔎 Constantly evolving as a developer
 
-## 🛠️ Technologies
-
-### Main Technologies
-
-<p align="center">
-  <img src="illicons.dev/icons?i=cs,dotnet,python,react,mysql
-</p>
-
-### Other Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?css,flask,docker,git,github,postman,vscode
-</p>
-
 ---
 
-# 🇪🇸 Español
+## 🇪🇸 Español
 
 🎓 Estudiante de Sistemas de Información
 
@@ -67,7 +65,7 @@
 
 🚀 Actualmente enfocado en Backend, Desarrollo Web, APIs y Bases de Datos.
 
-## 🟢 Estado Actual
+### 🟢 Estado Actual
 
 - 🎓 Estudiante de Sistemas de Información
 - 💻 Desarrollando proyectos personales y académicos
@@ -75,75 +73,47 @@
 - 🚀 Explorando nuevas tecnologías
 - 🔎 Buscando evolucionar constantemente como desarrollador
 
-## 🛠️ Tecnologías
+---
 
-### Tecnologías Principales
+## 📊 GitHub Stats
 
-<p align="center">
-  ://skillicons.dev/icons?i=cs,dotnet,python,react,mysql" />
-</p>
-
-### Otras Tecnologías y Herramientas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,flask,docker,git,githubscode
-</p>
+![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabezerra12&show_icons=true&theme=tokhttps://github-readme-stats.vercel.app/api/top-langs/?username=Gabezerra12&layout=compact
 
 ---
 
-# 📊 GitHub Stats
+## 🚀 Projetos
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabezerra12&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabezerra12&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+### 📦 Inventory Management System
 
----
+Projeto acadêmico focado em gerenciamento de estoque e desenvolvimento de APIs REST.
 
-# 🚀 Projects
+**Tecnologias:** Python • Flask • SQL Server • Docker • REST API • Postman
 
-## 📦 Inventory Management System
+### 🍔 iComida
 
-Academic project focused on inventory management and REST API development.
+Aplicação web inspirada em plataformas de delivery.
 
-**Technologies:**
-`Python` `Flask` `SQL Server` `Docker` `REST API` `Postman`
+**Tecnologias:** React • JavaScript • HTML • CSS • REST API • SQL
 
 ---
 
-## 🍔 iComida
+## 🎯 Objetivos
 
-Web application inspired by food delivery platforms, developed with a focus on realistic user experience.
+🇧🇷 Continuar evoluindo como desenvolvedor e aprofundar meus conhecimentos em C#, .NET, Python, SQL e Desenvolvimento Web.
 
-**Technologies:**
-`React` `JavaScript` `HTML` `CSS` `REST API` `SQL`
+🇺🇸 Continue growing as a software developer and deepen my knowledge of C#, .NET, Python, SQL and Web Development.
 
----
-
-# 🎯 Goals
-
-🇧🇷 Meu objetivo é continuar evoluindo como desenvolvedor, aprofundando meus conhecimentos em C#, .NET, Python, SQL e Desenvolvimento Web.
-
-🇺🇸 My goal is to continue growing as a software developer while deepening my knowledge of C#, .NET, Python, SQL, and Web Development.
-
-🇪🇸 Mi objetivo es seguir creciendo como desarrollador de software y profundizar mis conocimientos en C#, .NET, Python, SQL y Desarrollo Web.
+🇪🇸 Seguir creciendo como desarrollador de software y profundizar mis conocimientos en C#, .NET, Python, SQL y Desarrollo Web.
 
 ---
 
-# 📫 Contact
+## 📫 Contato
 
-<p align="center">
-  <a href="https://github.com/Gabezerra12">
-    <img src="https://img.shields.io/badge/GitHub-Gabezerra12-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+- GitHub: https://github.com/Gabezerra12
+- LinkedIn: https://www.linkedin.com/in/gabriel-bezerra-ledezma-12061a2b3
 
 ---
-
-<div align="center">
 
 ### 💻 Always learning. Always building. Always improving.
 
 🇧🇷 Aprendendo • 🇺🇸 Learning • 🇪🇸 Aprendiendo
-
-</div>
