@@ -58,9 +58,7 @@ para criar soluções inovadoras e de impacto.
 
 <p>
 📍 São Paulo, Brasil <br>
-💼 <a href="https://www.linkedin.com/in/gabriel-bezerra-ledezma-12061a2b3">LinkedIn</a> <br>
-br>
-🐙 <a href="https://github.com/Gabezerra12">GitHub</a>
+ "Do Lado Norte dessa zona"
 </p>
 
 <hr>
