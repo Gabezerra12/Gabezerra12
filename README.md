@@ -1,5 +1,6 @@
 👋 Hello, I'm Gabriel!
- 
+👋 ¿Qué tal? ¡Me llamo Gabriel!
+👋 Salve! Me chamo Gabriel! 
 🇧🇷 Português | 🇺🇸 English | 🇪🇸 Español
  
 <a>
